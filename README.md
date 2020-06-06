@@ -1,0 +1,5 @@
+# gamy
+
+## Run
+
+`cargo run`
